@@ -15,3 +15,5 @@ print(iris.data.shape)
 
 for i in range(10):
     print(i)
+
+persons = [name for name in range(10)]
