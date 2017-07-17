@@ -15,4 +15,7 @@ print(iris.data.shape)
 
 for i in range(10):
     print(i)
-names = [s for s in 'hello']
+<<<<<<< HEAD
+
+names = [i2 for i2 in range(10)]
+
